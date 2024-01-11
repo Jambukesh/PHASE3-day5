@@ -1,0 +1,5 @@
+E:\mphasis\problem statement\PHASE3\day 5\ConsoleApp\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.exe
+E:\mphasis\problem statement\PHASE3\day 5\ConsoleApp\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.dll
+E:\mphasis\problem statement\PHASE3\day 5\ConsoleApp\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.deps.json
+E:\mphasis\problem statement\PHASE3\day 5\ConsoleApp\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.runtimeconfig.json
+E:\mphasis\problem statement\PHASE3\day 5\ConsoleApp\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.pdb
